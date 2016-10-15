@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Player Count</string>
+    <string name="refresh">Refresh</string>
+</resources>
